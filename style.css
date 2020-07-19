@@ -8,6 +8,13 @@ body{
     line-height:1.5;
 }
 
+a:link {
+    color: #36587d
+}
+
+a:visited {
+    color: #81878d
+}
 
 #maincontent
 {
